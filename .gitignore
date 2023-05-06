@@ -4,3 +4,4 @@ Pipfile.lock
 __pycache__
 media
 migrations
+sent_emails
